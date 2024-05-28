@@ -4,7 +4,7 @@ Taylor Swift is the pop superstar of our generation. In her sixth concert tour, 
 
 Taylor Swift's tour locations have huge impact on that country's economy, with journalists coining the term swiftonomics in recognition of the artist's influence. In Australia during The Eras Tour performances in February 2024, the Australian Bureau of Statistics (ABS) attributed a retail turnover rise of 0.3 per cent to sold-out Taylor Swift concerts in the country. 
 
-With The Eras Tour continuing until the end of the year there is an interesting opportunity today to quantify Taylor Swift's economic impact within the near future. In this project, Taylor Swift's impact will be measured in relation to e-commerce product listings to provide a view of the global e-commerce markets response to The Eras Tour. 
+With The Eras Tour continuing until the end of the year there is an interesting opportunity today to quantify the economic impact of Taylor Swift's activities (activities including her new album release, and her remaining concert locations) within the near future. In this project, Taylor Swift's impact will be measured in relation to e-commerce product listings to provide a view of the global e-commerce markets response to The Eras Tour. 
 
 # Conceptual Data Model
 ![nattyd-capstone-conceptual-data-model-Page-1 drawio](https://github.com/DataExpert-ZachWilson-V4/capstone-project-nattyd-v4/assets/64181464/7056358b-35da-4a4c-b54b-248040d2c53c)
